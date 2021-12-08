@@ -1,0 +1,90 @@
+[submodule "quizzler-flutter-challenge-final"]
+	path = quizzler-flutter-challenge-final
+	url = https://github.com/londonappbrewery/quizzler-flutter-challenge-final.git
+[submodule "mi_card_flutter"]
+	path = mi_card_flutter
+	url = https://github.com/londonappbrewery/mi_card_flutter.git
+[submodule "Xylophone-Flutter-Completed"]
+	path = Xylophone-Flutter-Completed
+	url = https://github.com/londonappbrewery/Xylophone-Flutter-Completed.git
+[submodule "xylophone-flutter"]
+	path = xylophone-flutter
+	url = https://github.com/londonappbrewery/xylophone-flutter.git
+[submodule "MiCard-Completed"]
+	path = MiCard-Completed
+	url = https://github.com/londonappbrewery/MiCard-Completed.git
+[submodule "bitcoin-flutter-bronze-solution"]
+	path = bitcoin-flutter-bronze-solution
+	url = https://github.com/londonappbrewery/bitcoin-flutter-bronze-solution.git
+[submodule "flash-chat-flutter"]
+	path = flash-chat-flutter
+	url = https://github.com/londonappbrewery/flash-chat-flutter.git
+[submodule "Clima-Flutter-Completed"]
+	path = Clima-Flutter-Completed
+	url = https://github.com/londonappbrewery/Clima-Flutter-Completed.git
+[submodule "bmi-calculator-flutter"]
+	path = bmi-calculator-flutter
+	url = https://github.com/londonappbrewery/bmi-calculator-flutter.git
+[submodule "quizzler-flutter"]
+	path = quizzler-flutter
+	url = https://github.com/londonappbrewery/quizzler-flutter.git
+[submodule "BMI-Calculator-Flutter-Completed"]
+	path = BMI-Calculator-Flutter-Completed
+	url = https://github.com/londonappbrewery/BMI-Calculator-Flutter-Completed.git
+[submodule "quizzler-flutter-challenge-starting"]
+	path = quizzler-flutter-challenge-starting
+	url = https://github.com/londonappbrewery/quizzler-flutter-challenge-starting.git
+[submodule "magic-8-ball-flutter"]
+	path = magic-8-ball-flutter
+	url = https://github.com/londonappbrewery/magic-8-ball-flutter.git
+[submodule "bitcoin-ticker-flutter"]
+	path = bitcoin-ticker-flutter
+	url = https://github.com/londonappbrewery/bitcoin-ticker-flutter.git
+[submodule "todoey-flutter"]
+	path = todoey-flutter
+	url = https://github.com/londonappbrewery/todoey-flutter.git
+[submodule "Flash-Chat-Flutter-Complete"]
+	path = Flash-Chat-Flutter-Complete
+	url = https://github.com/londonappbrewery/Flash-Chat-Flutter-Complete.git
+[submodule "Dicee-Flutter-Completed"]
+	path = Dicee-Flutter-Completed
+	url = https://github.com/londonappbrewery/Dicee-Flutter-Completed.git
+[submodule "Clima-Flutter-Location-Refactor-Challenge"]
+	path = Clima-Flutter-Location-Refactor-Challenge
+	url = https://github.com/londonappbrewery/Clima-Flutter-Location-Refactor-Challenge.git
+[submodule "bitcoin-flutter-gold-start"]
+	path = bitcoin-flutter-gold-start
+	url = https://github.com/londonappbrewery/bitcoin-flutter-gold-start.git
+[submodule "magic-8-ball-android-flutterdevelop"]
+	path = magic-8-ball-android-flutterdevelop
+	url = https://github.com/londonappbrewery/magic-8-ball-android-flutterdevelop.git
+[submodule "bitcoin-flutter-silver-solution"]
+	path = bitcoin-flutter-silver-solution
+	url = https://github.com/londonappbrewery/bitcoin-flutter-silver-solution.git
+[submodule "bitcoin-flutter-gold-solution"]
+	path = bitcoin-flutter-gold-solution
+	url = https://github.com/londonappbrewery/bitcoin-flutter-gold-solution.git
+[submodule "bitcoin-flutter-challenge-start"]
+	path = bitcoin-flutter-challenge-start
+	url = https://github.com/londonappbrewery/bitcoin-flutter-challenge-start.git
+[submodule "bitcoin-flutter-final"]
+	path = bitcoin-flutter-final
+	url = https://github.com/londonappbrewery/bitcoin-flutter-final.git
+[submodule "destini-challenge-completed"]
+	path = destini-challenge-completed
+	url = https://github.com/londonappbrewery/destini-challenge-completed.git
+[submodule "state_management-flutter"]
+	path = state_management-flutter
+	url = https://github.com/londonappbrewery/state_management-flutter.git
+[submodule "Flash-Chat-Flutter-Refactor-Challenge"]
+	path = Flash-Chat-Flutter-Refactor-Challenge
+	url = https://github.com/londonappbrewery/Flash-Chat-Flutter-Refactor-Challenge.git
+[submodule "Flutter-Futures-Demo"]
+	path = Flutter-Futures-Demo
+	url = https://github.com/londonappbrewery/Flutter-Futures-Demo.git
+[submodule "Navigation-Flutter-Demo"]
+	path = Navigation-Flutter-Demo
+	url = https://github.com/londonappbrewery/Navigation-Flutter-Demo.git
+[submodule "magic-8-ball-android-fluttershy66666"]
+	path = magic-8-ball-android-fluttershy66666
+	url = https://github.com/londonappbrewery/magic-8-ball-android-fluttershy66666.git
